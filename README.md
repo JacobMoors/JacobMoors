@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🏫 I'm studying a bachelor of Computer Science at RMIT.
+- 🌱 I’m currently learning about A.I.
+- ⚡ Fun fact: We live in a simulation
+
 <!--
 **JacobMoors/JacobMoors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
